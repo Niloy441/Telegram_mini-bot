@@ -1,0 +1,9 @@
+# Ignore sensitive files
+config.php
+
+# Ignore vendor directory for composer
+vendor/
+
+# Ignore temporary verification files
+jules-scratch/
+server.log
